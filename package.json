@@ -1,7 +1,7 @@
 {
-  "name": "rss-o-bot-telegram",
+  "name": "rss-o-bot-desktop",
   "version": "0.1.0",
-  "description": "A Telegram notifier for RSS-o-Bot",
+  "description": "A desktop notifier for RSS-o-Bot",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel --presets babel-preset-es2015 src --out-dir dist",
@@ -10,7 +10,8 @@
   },
   "keywords": [
     "RSS-o-Bot",
-    "Notifier"
+    "Notifier",
+    "Desktop"
   ],
   "dependencies": {
     "rx": "^4.1.0",
