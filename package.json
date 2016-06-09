@@ -1,6 +1,6 @@
 {
   "name": "rss-o-bot-desktop",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A desktop notifier for RSS-o-Bot",
   "main": "dist/index.js",
   "scripts": {
